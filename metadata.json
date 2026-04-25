@@ -1,0 +1,6 @@
+{
+  "name": "FSSAI License Extractor",
+  "description": "Extract structured data from FSSAI license images and PDFs using AI. Instantly identify entity names, addresses, license numbers, and category classifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
